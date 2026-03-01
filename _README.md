@@ -1,11 +1,11 @@
 #  Customer Segmentation - Mall Customers Dataset
 
-##  Project Overview
+# Project Overview
 This project uses **K-Means Clustering** to group mall customers based on:
 - **Annual Income**
 - **Spending Score**
 
-##  Dataset
+#  Dataset
 - **File:** Mall_Customers.csv
 - Columns: CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100)
 
