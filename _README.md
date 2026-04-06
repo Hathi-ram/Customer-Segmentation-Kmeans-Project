@@ -1,7 +1,6 @@
 ### 📊 Customer Segmentation using Machine Learning
-📌 Overview
 
-This project focuses on segmenting mall customers into distinct groups based on their purchasing behavior and demographic features. By applying unsupervised machine learning techniques, the goal is to identify meaningful customer segments that can help businesses improve marketing strategies and customer targeting.
+Customer Segmentation using KMeans 📊 A machine learning project that applies KMeans clustering on mall customer data to group customers based on Age, Annual Income, and Spending Score. The project helps businesses gain insights into customer behavior, identify high-value groups, and design targeted marketing strategies.
 
 ## 🎯 Objective
 Analyze customer data to identify patterns and trends
